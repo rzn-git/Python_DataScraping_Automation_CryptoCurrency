@@ -1,4 +1,4 @@
-# Scraping Data from a Cryptocurrency Website Using API and Storing to CSV, Transforming Data and Visualizing Data
+# Automating Data Scraping from a Cryptocurrency Website Using API Pull, Storing to CSV, Transforming Data and Visualizing Data
 
 
 ## API Pull 
