@@ -1,3 +1,6 @@
+
+![276596506-06bbd31d-5ff1-4050-860b-27e67f7f4619](https://github.com/rzn-git/Python_DataScraping_Automation_CryptoCurrency/assets/64501583/f006f3ed-dc14-4a3e-9a88-07540d93e445)
+
 # Automating Data Scraping from a Cryptocurrency Website using API pull, Storing to CSV, Transforming data and Visualizing data 
 
 
